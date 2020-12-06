@@ -1,7 +1,15 @@
 Hina Sato (佐藤 ひな, Sato Hina)
 
+![Sato Hina](HinaSato32.png "Sato Hina")
+
 Yōta Narukami (成神 陽太, Narukami Yōta)
+
+![Yōta Narukami](YotaNarukami32.png "Yōta Narukami")
 
 Kyōko Izanami (伊座並 杏子, Izanami Kyōko)
 
-Ashura Kokuhō (国宝 阿修羅, Kokuhō Ashura)
+![Kyōko Izanami](KyotoIzanami.png "Kyōko Izanami")
+
+Sora Narukami (成神 空, Narukami Sora)
+
+![Sora Narukami](SoraNarukami32.png "Sora Narukami")
