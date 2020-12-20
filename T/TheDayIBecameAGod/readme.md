@@ -1,3 +1,5 @@
+The Day I Became a God/神様になった日/成神之日
+
 Hina Sato (佐藤 ひな, Sato Hina)
 
 ![Sato Hina](HinaSato32.png "Sato Hina")
