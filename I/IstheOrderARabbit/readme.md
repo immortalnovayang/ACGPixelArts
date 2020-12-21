@@ -7,3 +7,7 @@ Chino Kafu (香風 智乃, Kafū Chino, usually written as チノ)
 Cocoa Hoto (保登 心愛, Hoto Kokoa, usually written as ココア)
 
 ![Cocoa Hoto](CocoaHoto64SD.png "Cocoa Hoto")
+
+Rize Tedeza (天々座 理世, Tedeza Rize, usually written as リゼ)
+
+![Rize Tedeza](RizeTedeza64SD.png "Rize Tedeza")
