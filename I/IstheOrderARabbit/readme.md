@@ -3,3 +3,7 @@ Is the Order a Rabbit?/ご注文はうさぎですか?/請問您今天要來點�
 Chino Kafu (香風 智乃, Kafū Chino, usually written as チノ)
 
 ![Chino Kafu](KafuuChino64.png "Chino Kafu")
+
+Cocoa Hoto (保登 心愛, Hoto Kokoa, usually written as ココア)
+
+![Cocoa Hoto](CocoaHoto64SD.png "Cocoa Hoto")
