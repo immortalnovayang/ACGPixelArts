@@ -11,3 +11,7 @@ Cocoa Hoto (保登 心愛, Hoto Kokoa, usually written as ココア)
 Rize Tedeza (天々座 理世, Tedeza Rize, usually written as リゼ)
 
 ![Rize Tedeza](RizeTedeza64SD.png "Rize Tedeza")
+
+Chiya Ujimatsu (宇治松 千夜, Ujimatsu Chiya, usually written as 千夜)
+
+![Chiya Ujimatsu](ChiyaUjimatsu64SD.png "Chiya Ujimatsu")
