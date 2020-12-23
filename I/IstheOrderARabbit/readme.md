@@ -19,3 +19,7 @@ Chiya Ujimatsu (宇治松 千夜, Ujimatsu Chiya, usually written as 千夜)
 Syaro Kirima (桐間 紗路, Kirima Sharo, usually written as シャロ)
 
 ![Syaro Kirima](SyaroKirima64SD.png "Syaro Kirima")
+
+Tippy (ティッピー, Tippī)
+
+![Tippy](Tippy64.png "Tippy")
