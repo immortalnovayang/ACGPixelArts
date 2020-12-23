@@ -15,3 +15,7 @@ Rize Tedeza (天々座 理世, Tedeza Rize, usually written as リゼ)
 Chiya Ujimatsu (宇治松 千夜, Ujimatsu Chiya, usually written as 千夜)
 
 ![Chiya Ujimatsu](ChiyaUjimatsu64SD.png "Chiya Ujimatsu")
+
+Syaro Kirima (桐間 紗路, Kirima Sharo, usually written as シャロ)
+
+![Syaro Kirima](SyaroKirima64SD.png "Syaro Kirima")
