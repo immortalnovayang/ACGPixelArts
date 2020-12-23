@@ -23,3 +23,7 @@ Syaro Kirima (桐間 紗路, Kirima Sharo, usually written as シャロ)
 Tippy (ティッピー, Tippī)
 
 ![Tippy](Tippy64.png "Tippy")
+
+Anko (あんこ)
+
+![Anko](Anko64SD.png "Anko")
