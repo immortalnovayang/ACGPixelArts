@@ -35,3 +35,7 @@ Tippy (ティッピー, Tippī)
 Anko (あんこ)
 
 ![Anko](Anko64SD.png "Anko")
+
+Wild Geese (ワイルドギース, Wairudo Gīsu)
+
+![Wild Geese](WildGeese64SD.png "Wild Geese")
