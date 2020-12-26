@@ -38,4 +38,4 @@ Anko (あんこ)
 
 Wild Geese (ワイルドギース, Wairudo Gīsu)
 
-![Wild Geese](WildGeese64SD.png "Wild Geese")
+![Wild Geese](WildGeese64SD2.png "Wild Geese")
