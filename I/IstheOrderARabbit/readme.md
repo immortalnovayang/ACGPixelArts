@@ -20,6 +20,14 @@ Syaro Kirima (桐間 紗路, Kirima Sharo, usually written as シャロ)
 
 ![Syaro Kirima](SyaroKirima64SD.png "Syaro Kirima")
 
+Maya Joga (条河 麻耶, Jōga Maya, usually written as マヤ)
+
+![Maya Joga](MayaJoga64SD.png "Maya Joga")
+
+Megumi Natsu (奈津 恵, Natsu Megumi, usually written as メグ)
+
+![Megumi Natsu](NatsuMegumi64SD.png "Megumi Natsu")
+
 Tippy (ティッピー, Tippī)
 
 ![Tippy](Tippy64.png "Tippy")
