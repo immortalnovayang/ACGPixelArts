@@ -6,3 +6,8 @@ Pui Pui Molcar
 
 ![potato64](potato64.png "potato64")
 ![potato64gif](potato64.gif "potato64gif")
+
+西羅摩（シロモ）
+
+![potato64](shiromo64.png "potato64")
+![potato64gif](shiromo64.gif "potato64gif")
