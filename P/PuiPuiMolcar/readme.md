@@ -9,5 +9,10 @@ Pui Pui Molcar
 
 西羅摩（シロモ）
 
-![potato64](shiromo64.png "potato64")
-![potato64gif](shiromo64.gif "potato64gif")
+![shiromo64](shiromo64.png "shiromo64")
+![shiromo64gif](shiromo64.gif "shiromo64gif")
+
+阿比（アビー）
+
+![abby64](abby64.png "abby64")
+![abby64gif](abby64.gif "abby64gif")
