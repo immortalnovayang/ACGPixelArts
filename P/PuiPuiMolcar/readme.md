@@ -1,6 +1,6 @@
 PUI PUI 天竺鼠車車/
 PUI PUI モルカー/
-Pui Pui Molcar?
+Pui Pui Molcar
 
 馬鈴薯（ポテト）
 
