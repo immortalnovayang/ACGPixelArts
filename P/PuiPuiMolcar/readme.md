@@ -16,3 +16,8 @@ Pui Pui Molcar
 
 ![abby64](abby64.png "abby64")
 ![abby64gif](abby64.gif "abby64gif")
+
+泰迪（テディ）
+
+![Teddy64](Teddy64.png "Teddy64")
+![Teddy64gif](Teddy64.gif "Teddy64gif")
