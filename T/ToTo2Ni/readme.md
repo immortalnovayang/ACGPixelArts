@@ -6,4 +6,6 @@ anime01
 
 anime06
 
-![to-to2ni06-export2x](to-to2ni06.gif "to-to2ni06-export2x")
+![to-to2ni06](to-to2ni06.gif "to-to2ni06")
+
+![to-to2ni06_2](to-to2ni06_2.gif "to-to2ni06_2")
