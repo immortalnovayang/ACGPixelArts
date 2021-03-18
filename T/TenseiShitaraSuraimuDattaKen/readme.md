@@ -4,3 +4,4 @@ Tensei Shitara Suraimu datta Ken/転生したらスライムだった件/關於�
 
 ![Rimuru-Tempest](RimuruTempest64.gif "Rimuru-Tempest")
 
+![Rimuru-Tempest](RimuruTempestFace64.gif "Rimuru-Tempest")
