@@ -12,4 +12,4 @@ anime06
 
 anime08
 
-![to-to2ni08_1](to-to-to2ni08_1.gif "to-to2ni08_1")
+![to-to2ni08_1](to-to2ni08_1.gif "to-to2ni08_1")
