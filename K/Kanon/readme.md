@@ -13,3 +13,7 @@
 美坂栞（美坂 栞（みさか しおり）
 
 ![shiori-misaka](shiori-misaka.gif "shiori-misaka")
+
+澤渡真琴（沢渡 真琴（さわたり まこと）
+
+![makoto-sawatari](makoto-sawatari.gif "makoto-sawatari")
