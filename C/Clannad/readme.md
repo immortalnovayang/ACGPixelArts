@@ -20,3 +20,7 @@ CLANNAD クラナド
 伊吹風子（伊吹 風子（いぶき ふうこ）
 
 ![fuko-ibuki](fuko-ibuki.gif "fuko-ibuki")
+
+一之瀨琴美（一ノ瀬 ことみ（いちのせ ことみ）
+
+![kotomi-ichinose](kotomi-ichinose.gif "kotomi-ichinose")
