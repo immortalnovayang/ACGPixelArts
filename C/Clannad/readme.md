@@ -1,3 +1,5 @@
+CLANNAD クラナド
+
 古河渚（古河 渚（ふるかわ なぎさ）
 
 ![nagisa-furukawa](nagisa-furukawa.gif "nagisa-furukawa")
@@ -14,3 +16,7 @@
 
 ![tomoyo-sakagami](tomoyo-sakagami.gif "tomoyo-sakagami")
 
+
+伊吹風子（伊吹 風子（いぶき ふうこ）
+
+![fuko-ibuki](fuko-ibuki.gif "fuko-ibuki")
