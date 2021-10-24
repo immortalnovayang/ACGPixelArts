@@ -10,3 +10,7 @@
 
 ![ryou-fujibayashi](ryou-fujibayashi.gif "ryou-fujibayashi")
 
+坂上智代（坂上 智代（さかがみ ともよ）
+
+![tomoyo-sakagami](tomoyo-sakagami.gif "tomoyo-sakagami")
+
