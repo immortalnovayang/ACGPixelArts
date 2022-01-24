@@ -2,6 +2,10 @@
 
 ![Kitagawa Marin](Kitagawa_Marin.gif "Kitagawa Marin")
 
+喜多川海夢黒江雫ver
+
+![Kitagawa Marin](Kitagawa_Marin2.gif "Kitagawa Marin")
+
 五条新菜（五条 新菜（ごじょう わかな），Gojō Wakana）
 
 ![Wakana Gojo](Wakana_Gojo.gif "Wakana Gojo")
