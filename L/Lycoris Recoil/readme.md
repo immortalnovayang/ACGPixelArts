@@ -5,3 +5,7 @@
 井之上瀧奈（井ノ上 たきな（いのうえ たきな）
 
 ![InoueTakina](InoueTakina.gif "InoueTakina")
+
+胡桃（クルミ）
+
+![kurumi](kurumi.gif "kurumi")
