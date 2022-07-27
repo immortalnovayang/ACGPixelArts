@@ -9,3 +9,7 @@
 胡桃（クルミ）
 
 ![kurumi](kurumi.gif "kurumi")
+
+中原瑞希（中原 ミズキ（なかはら ミズキ）
+
+![mizuki](mizuki.gif "mizuki")
