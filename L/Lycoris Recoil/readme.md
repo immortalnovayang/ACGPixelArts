@@ -9,6 +9,7 @@
 胡桃（クルミ）
 
 ![kurumi](kurumi.gif "kurumi")
+![kurumi2](kurumi2.gif "kurumi2")
 
 中原瑞希（中原 ミズキ（なかはら ミズキ）
 
