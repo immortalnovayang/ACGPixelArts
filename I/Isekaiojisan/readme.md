@@ -8,3 +8,7 @@
 藤宮澄夏（藤宮 澄夏（ふじみや すみか）
 
 ![SumikaFujimiya](SumikaFujimiya.gif "SumikaFujimiya")
+
+梅貝爾·雷貝爾（メイベル＝レイベール）
+
+![MabelRayveil](MabelRayveil.gif "MabelRayveil")
