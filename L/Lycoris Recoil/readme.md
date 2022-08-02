@@ -1,6 +1,7 @@
 錦木千束（錦木千束（にしきぎ ちさと）
 
 ![NishikigiChisato](NishikigiChisato.gif "NishikigiChisato")
+![NishikigiChisato2](NishikigiChisato2.gif "NishikigiChisato2")
 
 井之上瀧奈（井ノ上 たきな（いのうえ たきな）
 
