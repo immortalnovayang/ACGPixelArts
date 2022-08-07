@@ -6,6 +6,7 @@
 井之上瀧奈（井ノ上 たきな（いのうえ たきな）
 
 ![InoueTakina](InoueTakina.gif "InoueTakina")
+![InoueTakinaJump](InoueTakinaJump.gif "InoueTakinaJump")
 
 胡桃（クルミ）
 
